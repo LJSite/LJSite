@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Selamat datang ke Laman LJ!</h1>
-    <p>Ini adalah Laman pertama saya.</p>
+    <p>Ini adalah Laman pertama saya</p>
     <ul>
       <ol>Latar Belakang</ol>
       <li>Makanan Kegemaran</li>
