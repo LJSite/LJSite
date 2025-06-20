@@ -8,13 +8,13 @@
     <p>Ini adalah Laman pertama saya.</p>
     <ul>
       <ol>Latar Belakang</ol>
-      <il>Makanan Kegemaran</il>
-      <il>Musik Kegemaran</il>
+      <li>Makanan Kegemaran</li>
+      <li>Musik Kegemaran</li>
       <ol>Website Lawatan</ol>
-      <il><a href="https://www.google.com" target="_blank">Google Bossku</a></il>
-      <il><a href="https://www.yahoo.com" target="_blank">Yahoo Bossku</a></il>
+      <li><a href="https://www.google.com" target="_blank">Google Bossku</a></li>
+      <li><a href="https://www.yahoo.com" target="_blank">Yahoo Bossku</a></li>
       <ol>Mahu Menghubungi Saya</ol>
-      <il><a href="https://wa.me/60192856231">Whatsapp Bossku</a></il>
+      <li><a href="https://wa.me/60192856231">Whatsapp Bossku</a></li>
     </ul>
 
   </body>
