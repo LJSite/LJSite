@@ -16,6 +16,5 @@
       <ol>Mahu Menghubungi Saya</ol>
       <li><a href="https://wa.me/60192856231">Whatsapp Bossku</a></li>
     </ul>
-
   </body>
 </html>
